@@ -4,10 +4,11 @@ Autor:
   - Alexandr Soljenițîn
 Carte: Două secole împreună - evreii și rușii înainte de revoluție 1795-1917 vol. II, Univers, 2009
 Pagină: 227
-Personaje: 
 Categorii: 
 Dată: 1911-03-12
-tags: 
+tags:
+  - Evrei
+  - Talmud
 An: 1911
 ---
 
