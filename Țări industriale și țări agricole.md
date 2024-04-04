@@ -4,7 +4,6 @@ Autor:
   - Mihail Mnaoilescu
 Carte: Echilibrul economic european, Tiparul Românesc  București, 1931
 Categorii: 
-Dată: 
 tags:
   - Economie
 Share: "True"
@@ -16,4 +15,4 @@ _Istoria ne învață, că cel puțin în ultimul veac, bogăția a fost destina
 
 _Or, cum istoria nu minte, știința trebue să mintă._
 
-[[Echilibrul economic european#^9ba88f|to text]]
+[[Echilibrul economic european#^9ba88f|text]]
