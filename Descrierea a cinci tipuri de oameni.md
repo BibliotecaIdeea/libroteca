@@ -2,9 +2,8 @@
 share: true
 Autor:
   - Constantin Noica
-Carte: 
+Carte: Opere vol. V, Editura, Științifică și Enciclopedică, 1984
 Pagină: 10
-Personaje: 
 Categorii: 
 Dată: 
 tags: 
