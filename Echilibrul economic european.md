@@ -1,6 +1,5 @@
 ---
 share: true
-quickshare-url: Removed
 ---
 În marea revistă „Revue Économique Internationale” d. Mihail Manoilescu a publicat sub titlul de mai sus, un studiu de o deosebită importanță, pe care Direcția Revistei l’a prezentat cetitorilor după cum urmează:
 
